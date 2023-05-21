@@ -1,0 +1,40 @@
+.OrdenNoticias {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.Noticias {
+    height: 400px;
+    width: 425px;
+    padding: 5px;
+    border: solid;
+    border-color: #a6051a;
+    border-width: 10px;
+    overflow: scroll;
+    color: white;
+    margin: 20px;
+    width: 1fr;
+}
+.ParrafoNoticia {
+    margin: 5px;
+    color: rgb(255, 255, 255);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.FotoVers {
+    background-image: url(../media/images/MaxVerstappen.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-position-y: bottom;
+    background-size: 70%;
+}
+.Encuesta {
+    font-family: "F1Regular";
+}
+.datos {
+    display: block;
+    font-family: "F1Regular";
+    margin: 5px 5px 5px 10px;
+}
+.VerVerstappen {
+    width: 200px;
+}

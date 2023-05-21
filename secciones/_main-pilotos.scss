@@ -1,0 +1,30 @@
+.Tarjetas {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.FijoTarjeta {
+    border-radius: 20%;
+    border-width: 15px;
+    display: inline-block;
+    margin: 5px;
+    text-align: center;
+}
+.Verstappen {
+    background-color: #12142d;
+    color: #FFEA00;
+    border: solid #ff0026;
+}
+
+.Hamilton {
+    background-color: #c6c6c6;
+    color: #111111;
+    border: solid #00a19c;
+}
+
+.LeClerc {
+    background-color: #a6051a;
+    color: #FFEB00;
+    border: solid #111111;
+}

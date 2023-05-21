@@ -1,0 +1,24 @@
+.footer {
+    background-image: url();
+    background-repeat: no-repeat;
+    background-position-y: bottom;
+    background-position-x: left;
+    background-size: contain;
+    background-color: black;
+    color: white;
+    font-family: "F1Bold";
+    position: fixed;
+    bottom: 0px;
+    width: 100vw;
+
+}
+
+.footer a {
+    color: white;
+    text-decoration: none;
+}
+.footertext {
+    margin: 15px;
+    display: flex;
+    justify-content: space-around;
+}
